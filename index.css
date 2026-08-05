@@ -1,0 +1,4 @@
+.display_details{
+    display: flex;
+    justify-content: space-evenly;
+}
